@@ -87,11 +87,9 @@ const LINK_BLOCKS: LinkBlock[] = [
    1) PROFILE_IMAGE_URL: Logo / foto de perfil redonda no topo
    2) BACKGROUND_IMAGE_URL: Imagem de fundo do site
    ========================================================================== */
-const PROFILE_IMAGE_URL =
-  '/assets/aistudio/WhatsApp_Image_2026-11-23_at_14.24.39_3e3b959f.jpeg';
+const PROFILE_IMAGE_URL = './perfil.jpeg';
 
-const BACKGROUND_IMAGE_URL =
-  '/assets/aistudio/WhatsApp_Image_2026-11-23_at_14.19.44_1f387c31.jpeg';
+const BACKGROUND_IMAGE_URL = './fundo.jpeg';
 
 const SOCIAL_LINKS = [
   {
