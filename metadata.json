@@ -1,0 +1,6 @@
+{
+  "name": "@cortesgta — Vice City Links",
+  "description": "Os melhores itens e setups para jogar GTA VI. Página Link na Bio minimalista com estética Vice City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
